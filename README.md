@@ -1,4 +1,4 @@
-# React Basics
+# User Ages List App
 ***This is a single page app that includes core features of React projects such as:***
 - Components
 - States & Events
